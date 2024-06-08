@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxPaper 1.0", "MaxPaper 1.0\MaxPaper 1.0.csproj", "{2EC43714-0505-4C14-9669-A43F72053BC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EC43714-0505-4C14-9669-A43F72053BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC43714-0505-4C14-9669-A43F72053BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC43714-0505-4C14-9669-A43F72053BC4}.Debug|x64.ActiveCfg = Debug|x64
+		{2EC43714-0505-4C14-9669-A43F72053BC4}.Debug|x64.Build.0 = Debug|x64
+		{2EC43714-0505-4C14-9669-A43F72053BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC43714-0505-4C14-9669-A43F72053BC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EC43714-0505-4C14-9669-A43F72053BC4}.Release|x64.ActiveCfg = Release|x64
+		{2EC43714-0505-4C14-9669-A43F72053BC4}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B26BC1B-56EB-4779-97B8-6C67B797374E}
+	EndGlobalSection
+EndGlobal
